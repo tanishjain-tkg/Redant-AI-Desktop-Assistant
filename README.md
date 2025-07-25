@@ -69,3 +69,11 @@ Redant-AI-Desktop-Assistant/
 - Offline Wikipedia mode
 - Theme customization
 - Voice feedback animation
+
+---
+## 🙋‍♂️ Author
+
+**Tanish Jain**  
+[LinkedIn](https://www.linkedin.com/in/tanish-jain-0b4348289/)  
+[GitHub](https://github.com/tanishjain-tkg)
+
